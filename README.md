@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Shrutijaiswar
-- 👀 I’m interested in exploring and enhancing myself
-- 🌱 I’m currently learning software development and diffrent tools..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shrutijaiswar18jan@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+Hi, I’m Shruti Jaiswar
 
-<!---
-Shrutijaiswar/Shrutijaiswar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an undergraduate student at DTU with a passion for software development, AI, and building smart, responsive applications. I enjoy exploring new technologies, experimenting with AI integration, and developing recommendation systems.
+
+🌱 Currently learning full-stack development, AI integration, and modern web technologies.
+
+💞️ Open to collaborating on student projects, internships, and open-source initiatives.
+
+📫 Reach me at: shrutijaiswar18jan@gmail.com
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I believe every project is a chance to learn and grow as a developer.
